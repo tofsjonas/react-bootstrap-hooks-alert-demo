@@ -3,7 +3,7 @@
 ## react-bootstrap-hooks-alert
 
 The demo:
-<https://tofsjonas.github.io/react-bootstrap-hooks-alert>
+<https://tofsjonas.github.io/react-bootstrap-hooks-alert-demo>
 
 The github repo:
 <https://github.com/tofsjonas/react-bootstrap-hooks-alert>
