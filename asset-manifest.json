@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-bootstrap-hooks-alert-demo/static/css/main.ada63796.chunk.css",
-    "main.js": "/react-bootstrap-hooks-alert-demo/static/js/main.2c2c5e80.chunk.js",
-    "main.js.map": "/react-bootstrap-hooks-alert-demo/static/js/main.2c2c5e80.chunk.js.map",
+    "main.js": "/react-bootstrap-hooks-alert-demo/static/js/main.f041f7c5.chunk.js",
+    "main.js.map": "/react-bootstrap-hooks-alert-demo/static/js/main.f041f7c5.chunk.js.map",
     "runtime-main.js": "/react-bootstrap-hooks-alert-demo/static/js/runtime-main.4ae2bff5.js",
     "runtime-main.js.map": "/react-bootstrap-hooks-alert-demo/static/js/runtime-main.4ae2bff5.js.map",
     "static/css/2.f0c2ab4b.chunk.css": "/react-bootstrap-hooks-alert-demo/static/css/2.f0c2ab4b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.f0c2ab4b.chunk.css",
     "static/js/2.ac87e441.chunk.js",
     "static/css/main.ada63796.chunk.css",
-    "static/js/main.2c2c5e80.chunk.js"
+    "static/js/main.f041f7c5.chunk.js"
   ]
 }
