@@ -12,41 +12,43 @@ const Demo = () => {
   return (
     <Container>
       <Row>
-        <Col>
+        <Col className="m-3">
           <Button
             variant="primary"
             onClick={() => {
-              primary("primary");
+              primary("No timeout here, click me away!");
             }}
           >
             Primary
           </Button>
         </Col>
-        <Col>
+        <Col className="m-3">
           <Button
             variant="success"
             onClick={() => {
-              success("success");
+              success("One second timeout");
             }}
           >
             Success
           </Button>
         </Col>
-        <Col>
+      </Row>
+      <Row>
+        <Col className="m-3">
           <Button
             variant="warning"
             onClick={() => {
-              warning("warning");
+              warning("Two second timeout");
             }}
           >
             Warning
           </Button>
         </Col>
-        <Col>
+        <Col className="m-3">
           <Button
             variant="danger"
             onClick={() => {
-              danger("danger");
+              danger("Three second timeout");
             }}
           >
             Danger

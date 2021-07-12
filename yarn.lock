@@ -9051,10 +9051,10 @@ react-app-polyfill@^2.0.0:
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
 
-react-bootstrap-hooks-alert@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/react-bootstrap-hooks-alert/-/react-bootstrap-hooks-alert-1.0.5.tgz#00e333dc6b2fed115aae4e738556dea70eba6781"
-  integrity sha512-X3W4y75/GREOSr5/QLo+3wVfx1T+MQCAObKw4XVitz2qHHSVq490yu9H7YRXijdM7dwxTb7RcCFSD8DjKDwNdQ==
+react-bootstrap-hooks-alert@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/react-bootstrap-hooks-alert/-/react-bootstrap-hooks-alert-1.0.11.tgz#79630783ccb34ea3c107caa87c8120bf6ddbb86f"
+  integrity sha512-TGYorNXYcxpQetYpKxdIZPhqHouAFpkwlSoMTxwV5he/4V69omfIrbyaI9K3piwpjhXp6iQ6ivPuhVPwdw/28A==
 
 react-bootstrap@1.6.1:
   version "1.6.1"
