@@ -21,12 +21,16 @@ function App() {
           </Row>
         </Container>
         <header className="App-header">
-          <a href="https://github.com/tofsjonas/react-bootstrap-hooks-alert">
-            react-bootstrap-hooks-alert
-          </a>
+          react-bootstrap-hooks-alert
           <h1>Demo</h1>
           <img src={logo} className="App-logo" alt="logo" />
           <Demo />
+          <a href="https://github.com/tofsjonas/react-bootstrap-hooks-alert">
+            github repo
+          </a>
+          <a href="https://www.npmjs.com/package/react-bootstrap-hooks-alert">
+            npm package
+          </a>
         </header>
       </div>
     </AlertProvider>

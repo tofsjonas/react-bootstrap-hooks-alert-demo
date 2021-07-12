@@ -38,7 +38,7 @@ const Demo = () => {
           <Button
             variant="warning"
             onClick={() => {
-              warning("Two second timeout");
+              warning("Two seconds timeout");
             }}
           >
             Warning
@@ -48,7 +48,7 @@ const Demo = () => {
           <Button
             variant="danger"
             onClick={() => {
-              danger("Three second timeout");
+              danger("Three seconds timeout");
             }}
           >
             Danger
