@@ -1,0 +1,2 @@
+.alert-outlet{top:10px;left:0;position:fixed;z-index:1000;width:100%}.alert-outlet .alert{margin-top:-10000px;animation:alert-outlet-slide .2s forwards;animation-timing-function:ease;left:-10000px;transition:margin-top 1.5s ease-in,opacity 2s linear}.alert-outlet .alert.show{margin-top:0}@keyframes alert-outlet-slide{to{left:0}}
+/*# sourceMappingURL=2.7b156465.chunk.css.map */
